@@ -10,6 +10,18 @@ on, or related to, the Scikit-HEP project.
 Presentations
 -------------
 
+* **17 April 2019:** `IRIS-HEP`_ project `topical meeting <https://indico.cern.ch/event/808630/>`__:
+
+  * *Awkward Array: Numba*, Jim Pivarski
+
+  * *Awkward Array: Pandas*, Michael Hedges
+
+* **15 April 2019:** `IRIS-HEP`_ project `topical meeting <https://indico.cern.ch/event/803122/>`__:
+
+  * *boost-histogram and hist*, Henry Schreiner
+
+  * *Aghast*, Jim Pivarski
+
 * **21 March 2019:** `PyGamma19 Workshop <https://indico.cern.ch/event/783425/>`_, Heidelberg, Germany:
 
   * *Python in High-Energy Physics*, Hans Dembinski
@@ -57,4 +69,5 @@ Presentations
 
 
 .. _DIANA/HEP : http://www.diana-hep.org/
+.. _IRIS-HEP : https://iris-hep.org/
 .. _LHCb experiment : http://lhcb.cern.ch/
