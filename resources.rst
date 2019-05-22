@@ -10,6 +10,14 @@ on, or related to, the Scikit-HEP project.
 Presentations
 -------------
 
+* **21 May 2019:** `BelleII`_ experiment `Analysis Software Developers' Meeting <https://indico.belle2.org/event/193/>`_
+
+  * *Particles and decays in the Scikit-HEP project*, Eduardo Rodrigues, Henry Schreiner
+
+* **13 May 2019:** `IRIS-HEP`_ project `topical meeting <https://indico.cern.ch/event/818864/>`__:
+
+  * *Particles and decays in the Scikit-HEP project*, Eduardo Rodrigues, Henry Schreiner
+
 * **17 April 2019:** `IRIS-HEP`_ project `topical meeting <https://indico.cern.ch/event/808630/>`__:
 
   * *Awkward Array: Numba*, Jim Pivarski
@@ -68,6 +76,7 @@ Presentations
   * *Rootpy and root_numpy concepts in Scikit-HEP*, Noel Dawe
 
 
+.. _BelleII : https://www.belle2.org/
 .. _DIANA/HEP : http://www.diana-hep.org/
 .. _IRIS-HEP : https://iris-hep.org/
 .. _LHCb experiment : http://lhcb.cern.ch/
