@@ -20,5 +20,9 @@ Phenomenology projects
 Software projects
 -----------------
 
+The `zfit`_ project - it provides a model fitting library based on TensorFlow
+and optimised for simple and direct manipulation of probability density functions.
+
 
 .. _flavio : https://flav-io.github.io/
+.. _zfit : https://github.com/zfit
