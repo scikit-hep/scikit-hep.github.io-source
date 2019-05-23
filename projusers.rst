@@ -25,4 +25,4 @@ and optimised for simple and direct manipulation of probability density function
 
 
 .. _flavio : https://flav-io.github.io/
-.. _zfit : https://github.com/zfit
+.. _zfit : https://zfit.github.io/zfit/
