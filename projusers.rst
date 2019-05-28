@@ -4,6 +4,10 @@
 Who uses Scikit-HEP?
 ====================
 
+This page tries to give an overview of who is using one or more packages
+of the Scikit-HEP project.
+
+
 Experiment collaborations
 -------------------------
 
@@ -33,11 +37,21 @@ Phenomenology projects
 Software projects
 -----------------
 
+.. image:: images/projusers/logo_coffea.jpg
+    :scale: 45
+    :target: `Coffea`_
+
+`Coffea`_ - a prototype `Analysis System <http://iris-hep.org/as.html>`_
+incorporating Scikit-HEP packages to provide a lightweight, scalable, portable,
+and user-friendly interface for columnar analysis of HEP data.
+Some of the sub-packages of Coffea may become Scikit-HEP packages as development continues.
+
 The `zfit`_ project - it provides a model fitting library based on TensorFlow
 and optimised for simple and direct manipulation of probability density functions.
 
 
 .. _BelleII : https://www.belle2.org/
 .. _CMS : https://cms.cern/
+.. _Coffea : https://github.com/CoffeaTeam
 .. _flavio : https://flav-io.github.io/
 .. _zfit : https://zfit.github.io/zfit/
