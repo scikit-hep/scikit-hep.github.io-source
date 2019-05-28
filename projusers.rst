@@ -4,6 +4,10 @@
 Who uses Scikit-HEP?
 ====================
 
+This page tries to give an overview of who is using one or more packages
+of the Scikit-HEP project.
+
+
 Experiment collaborations
 -------------------------
 
