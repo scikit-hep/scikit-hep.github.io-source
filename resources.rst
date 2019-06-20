@@ -17,6 +17,10 @@ Proceedings
 Presentations
 -------------
 
+* **18 June 2019:** `LHCb experiment`_ Week, CERN:
+
+  * *Particles and decays in the Scikit-HEP project*, Eduardo Rodrigues [:download:`PDF <resources/rodrigues-lhcb-2019-08-18.pdf>`]
+
 * **21 May 2019:** `Belle II`_ experiment `Analysis Software Developers' Meeting <https://indico.belle2.org/event/193/>`_
 
   * *Particles and decays in the Scikit-HEP project*, Eduardo Rodrigues, Henry Schreiner
@@ -39,7 +43,7 @@ Presentations
 
 * **21 March 2019:** `PyGamma19 Workshop <https://indico.cern.ch/event/783425/>`_, Heidelberg, Germany:
 
-  * *Python in High-Energy Physics*, Hans Dembinski
+  * *Python in High-Energy Physics*, Hans Dembinski [:download:`PDF <resources/dembinski-pygamma19-2019-03-21.pdf>`]
 
 * **15 Oct. 2018:** `DIANA/HEP`_ project `topical meeting <https://indico.cern.ch/event/754335/>`__:
 
@@ -73,7 +77,7 @@ Presentations
 * **6 April 2017:** presentation of the project to the LHCb experiment,
   `LHCb experiment`_ Analysis & Software Week, CERN:
 
-  * *The Scikit-HEP project*, Eduardo Rodrigues
+  * *The Scikit-HEP project*, Eduardo Rodrigues [:download:`PDF <resources/rodrigues-lhcb-2017-04-06.pdf>`]
 
 * **27 Feb. 2017:** first presentation of the project,
   `DIANA/HEP`_ project `topical meeting <https://indico.cern.ch/event/596272/>`__, CERN:
