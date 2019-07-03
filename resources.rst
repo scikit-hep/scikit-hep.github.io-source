@@ -6,12 +6,16 @@ Miscellaneous resources
 A collection of presentations, videos and publications
 on, or related to, the Scikit-HEP project.
 
-Proceedings
------------
+
+Proceedings and publications
+----------------------------
 
 * *The Scikit-HEP project*, Eduardo Rodrigues,
   proceedings of the `CHEP 2018 Conference <http://chep2018.org/>`_, Sofia, Bulgaria;
   `arXiv:1905.00002 [physics.comp-ph] <https://arxiv.org/abs/1905.00002>`_
+
+* *Bayesian Block Histogramming for High Energy Physics*, Brian Pollack, Saptaparna Bhattacharya, Michael Schmitt,
+  `arXiv:1708.00810 [physics.data-an] <https://arxiv.org/abs/1708.00810>`_
 
 
 Presentations
